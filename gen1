@@ -1,0 +1,10 @@
+function setup(){
+  createCanvas(1000,1000)
+  colormode(HSB,360,100,100,100);
+  noLoop();
+}
+
+function draw(){
+    //make art
+    
+    }
